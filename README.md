@@ -1,6 +1,5 @@
 # 📁 File Manager App
 
-![App Logo](images/app_logo.png)
 
 Welcome to **File Manager App**, your ultimate companion for streamlined file management on Flutter!
 
